@@ -1,7 +1,13 @@
-# ascii-art-arduinos
-Master source file of ASCII art arduinos (see: http://busyducks.com/ascii-art-arduinos)
-
-                                                                        
+# Master files for 'ASCII art Arduinos'.  
+##Notes:  
+**Project home:** [http://busyducks.com/ascii-art-arduinos](http://busyducks.com/ascii-art-arduinos)  
+**Licence:** CC-BY cite: http://busyducks.com/ascii-art-arduinos  
+**NB:** Just put http://busyducks.com/ascii-art-arduinos in a readme or something, it does not need to hang around next to the image.  
+**Ver:** 1.2  
+**Author:** Dr Warren Creemrs (duckman)  
+  
+  
+##Example:                         
 
                                       +-----+
          +----[PWR]-------------------| USB |--+
