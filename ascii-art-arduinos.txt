@@ -1,11 +1,8 @@
-# Master files for 'ASCII art Arduinos'.  
-##Notes:  
-**Project home:** [http://busyducks.com/ascii-art-arduinos](http://busyducks.com/ascii-art-arduinos)  
-**Licence:** CC-BY cite: http://busyducks.com/ascii-art-arduinos  
-**NB:** Just put http://busyducks.com/ascii-art-arduinos in a readme or something, it does not need to hang around next to the image.  
-**Ver:** 1.2  
-**Author:** Dr Warren Creemrs (duckman)
-
+Master files for 'ASCII art Arduinos'.  
+Licence: CC-BY (cite: http://busyducks.com/ascii-art-arduinos in a readme or something similar)
+    Ver: 1.2  
+ Author: Dr Warren Creemrs (duckman)  
+  
 
                                       +-----+
          +----[PWR]-------------------| USB |--+
@@ -118,10 +115,10 @@
          
          http://busyducks.com/ascii-art-arduinos
         
-		
-		 
-		                  D0   D1   RST
-		   GND  GND  VCC  RX   TX   /DTR
+        
+         
+                          D0   D1   RST
+           GND  GND  VCC  RX   TX   /DTR
         +--------------------------------+
         |  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  |
         |              FTDI              |
@@ -139,8 +136,8 @@
     B1  |~[ ]9                  SS/10[ ]~|   B2
         |           [RST-BTN]            |    
         +--------------------------------+  
-		
-		http://busyducks.com/ascii-art-arduinos
+        
+        http://busyducks.com/ascii-art-arduinos
         
         
         
