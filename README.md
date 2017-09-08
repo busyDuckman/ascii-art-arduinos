@@ -5,9 +5,9 @@
 **NB:** Just put http://busyducks.com/ascii-art-arduinos in a readme or something, it does not need to hang around next to the image.  
 **Ver:** 1.2  
 **Author:** Dr Warren Creemrs (duckman)  
-**Github:**https://github.com/busyDuckman/ascii-art-arduinos
-**Facebook:** https://www.facebook.com/BusyDucks/
-**See also this write up on the Arduino Blog:** https://blog.arduino.cc/2015/11/20/arduino-pinout-ascii-art-ready-to-go/
+**Github:**https://github.com/busyDuckman/ascii-art-arduinos  
+**Facebook:** https://www.facebook.com/BusyDucks/  
+**See also this write up on the Arduino Blog:** https://blog.arduino.cc/2015/11/20/arduino-pinout-ascii-art-ready-to-go/  
   
 ##Example:                         
 
