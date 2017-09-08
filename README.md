@@ -1,10 +1,11 @@
 # Master files for 'ASCII art Arduinos'.  
 ##Notes:  
 **Project home:** [http://busyducks.com/ascii-art-arduinos](http://busyducks.com/ascii-art-arduinos)  
+**Author:** Dr Warren Creemrs (duckman)  
 **Licence:** CC-BY cite: http://busyducks.com/ascii-art-arduinos  
 **NB:** Just put http://busyducks.com/ascii-art-arduinos in a readme or something, it does not need to hang around next to the image.  
+  
 **Ver:** 1.2  
-**Author:** Dr Warren Creemrs (duckman)  
 **Github:** https://github.com/busyDuckman/ascii-art-arduinos  
 **Facebook:** https://www.facebook.com/BusyDucks/  
 **See also this write up on the Arduino Blog:** https://blog.arduino.cc/2015/11/20/arduino-pinout-ascii-art-ready-to-go/  
