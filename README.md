@@ -1,5 +1,5 @@
 # Master files for 'ASCII art Arduinos'.  
-##Notes:  
+## Notes:  
 **Project home:** [http://busyducks.com/ascii-art-arduinos](http://busyducks.com/ascii-art-arduinos)  
 **Author:** Dr Warren Creemrs (duckman)  
 **Licence:** CC-BY cite: http://busyducks.com/ascii-art-arduinos  
@@ -10,7 +10,7 @@
 **Facebook:** https://www.facebook.com/BusyDucks/  
 **See also this write up on the Arduino Blog:** https://blog.arduino.cc/2015/11/20/arduino-pinout-ascii-art-ready-to-go/  
   
-##Example:                         
+## Example:                         
 
                                       +-----+
          +----[PWR]-------------------| USB |--+
