@@ -106,8 +106,8 @@ Licence: CC-BY (cite: http://busyducks.com/ascii-art-arduinos in a readme or som
          | [ ]A7              INT0/D2[ ] |   D2
          | [ ]5V                  GND[ ] |     
     C6   | [ ]RST                 RST[ ] |   C6
-         | [ ]GND   5V MOSI GND   TX1[ ] |   D0
-         | [ ]Vin   [ ] [ ] [ ]   RX1[ ] |   D1
+         | [ ]GND   5V MOSI GND   RX1[ ] |   D0
+         | [ ]Vin   [ ] [ ] [ ]   TX1[ ] |   D1
          |          [ ] [ ] [ ]          |
          |          MISO SCK RST         |
          | NANO-V3                       |
